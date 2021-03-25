@@ -48,7 +48,7 @@
 {"id":"Stroke", "group":3},
 {"id":"Subdural haematoma", "group":3},
 {"id":"T2DM", "group":5},
-{"id":"Unstable Angina", "group":3},
+{"id":"Unstable Angina", "group":3}
   ],
 	"links":[
 {"source": "Stem Cell Exhaustion", "target": "AAA", "value":1},
